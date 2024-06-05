@@ -1,0 +1,36 @@
+# Arquivos de compilação Java
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+# Arquivos de configuração específicos do IDE STS (Spring Tool Suite)
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+# Arquivos de configuração específicos do IDE IntelliJ IDEA
+.idea
+*.iws
+*.iml
+*.ipr
+
+# Arquivos de configuração específicos do IDE NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+# Arquivos de configuração específicos do IDE VS Code
+.vscode/
+
+# Arquivo de ajuda
+HELP.md
